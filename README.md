@@ -2,6 +2,8 @@
 
 A TODO app, built using Clojure and HTMX
 
+Heavily inspired by https://quii.dev/ and the work here: https://github.com/ndchorley/todo
+
 ## Usage
 
 TODO
