@@ -1,14 +1,14 @@
 # clj-htmx-todo
 
-A Clojure library designed to ... well, that part is up to you.
+A TODO app, built using Clojure and HTMX
 
 ## Usage
 
-FIXME
+TODO
 
 ## License
 
-Copyright © 2023 FIXME
+Copyright © 2023 David Thorpe
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
